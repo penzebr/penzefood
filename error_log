@@ -1,0 +1,22 @@
+[06-Nov-2017 11:19:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'leandro@zeus2.penzecloud.com.br'@'localhost' (using password: YES) in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 7
+[06-Nov-2017 11:19:53 UTC] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 10
+[06-Nov-2017 11:20:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'leandro@zeus2.penzecloud.com.br'@'localhost' (using password: YES) in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 7
+[06-Nov-2017 11:20:09 UTC] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 10
+[06-Nov-2017 11:20:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'leandro@zeus2.penzecloud.com.br'@'localhost' (using password: YES) in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 7
+[06-Nov-2017 11:20:27 UTC] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 10
+[06-Nov-2017 12:47:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'leandro@zeus2.penzecloud.com.br'@'localhost' (using password: YES) in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 7
+[06-Nov-2017 12:47:33 UTC] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 10
+[06-Nov-2017 12:48:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'leandro@zeus2.penzecloud.com.br'@'localhost' (using password: YES) in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 7
+[06-Nov-2017 12:48:19 UTC] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 10
+[06-Nov-2017 12:49:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'leandro@zeus2.penzecloud.com.br'@'localhost' (using password: YES) in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 7
+[06-Nov-2017 12:49:01 UTC] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 10
+[06-Nov-2017 12:49:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'leandro@zeus2.penzecloud.com.br'@'localhost' (using password: YES) in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 7
+[06-Nov-2017 12:49:19 UTC] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 10
+[06-Nov-2017 12:51:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'leandro@zeus2.penzecloud.com.br'@'localhost' (using password: YES) in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 7
+[06-Nov-2017 12:51:49 UTC] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home/penze/public_html/penze.co/penze.com.br/food/penzefood/conn.php on line 10
+[17-Nov-2017 11:21:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/penze/public_html/penze.co/penze.com.br/app/conn.php on line 7
+[17-Nov-2017 11:21:59 UTC] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home/penze/public_html/penze.co/penze.com.br/app/conn.php on line 10
+[17-Nov-2017 11:24:09 UTC] PHP Parse error:  syntax error, unexpected 'leandro17' (T_STRING) in /home/penze/public_html/penze.co/penze.com.br/app/conn.php on line 4
+[28-Nov-2017 11:38:12 UTC] PHP Parse error:  syntax error, unexpected 'width' (T_STRING), expecting ',' or ';' in /home/penze/public_html/penze.co/penze.com.br/app/index.php on line 12
+[28-Nov-2017 11:38:49 UTC] PHP Parse error:  syntax error, unexpected 'width' (T_STRING), expecting ',' or ';' in /home/penze/public_html/penze.co/penze.com.br/app/index.php on line 12
+[28-Nov-2017 11:40:14 UTC] PHP Parse error:  syntax error, unexpected 'width' (T_STRING), expecting ',' or ';' in /home/penze/public_html/penze.co/penze.com.br/app/index.php on line 12
